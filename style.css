@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(243, 243, 139);
+}
+
+
+nav#menu :hover{
+    display:inline-block;
+    background-color:#dddddd
+}
+a{
+    color: rgb(168, 50, 50);
+    text-decoration-line: none;
+    float: left;
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+
+}
+
+.semana{
+    background-image: url(./bolo-vulcao-de-chocolate.webp);
+    background-size: cover;
+    height: 500px;
+    background-position-y: -150px;
+    width: 100%;
+    margin-top: 60px;
+}
+
+#semana{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+#introducao{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(168, 50, 50);
+}
+
+.ingredientes{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(168, 50, 50);
+    margin-left: 250px; 
+}
+
+.preparo{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(168, 50, 50);
+    margin-left: 250px; 
+    margin-right: 150px;
+}
+
+
+.video{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(168, 50, 50);
+    text-align: center;
+}
+
+#pagina{
+    text-align: left;
+}
+
+.apresentacao{
+    background-color: rgb(168, 50, 50);
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(243, 243, 139);
+    margin-left: 80px;
+    margin-right: 80px;
+    position: relative;
+}
+
+footer{
+        width: 100%;
+        height: 50px;
+        margin: auto;
+        bottom: 0;
+}
+#foto{
+    width: 150px;
+    margin-top: 50px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(243, 243, 139);
+}
+

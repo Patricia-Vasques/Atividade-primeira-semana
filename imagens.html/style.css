@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(243, 243, 139);
+}
+
+.semana{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(168, 50, 50);
+    background-image: url(OIP.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+
+.paragrafo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: rgb(168, 50, 50);
+}
+
+#imagem1{
+    border-style: solid;
+    border-radius: 15px;
+    width: 350px;
+    padding: 10px;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+#imagem2{
+    border-style: solid;
+    border-radius: 15px;
+    width: 350px;
+    padding: 10px;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+#imagem3{
+    border-style: solid;
+    border-radius: 15px;
+    width: 350px;
+    padding: 10px;
+    margin-top: 5px;
+    margin: 20px;
+}
+
+.imagem{
+
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 320px;
+}
